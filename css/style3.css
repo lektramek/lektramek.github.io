@@ -814,7 +814,7 @@ footer
     position: relative;
     font-family: 'Asap';
     font-weight: 700;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 20px;
     color: #000000;
     text-decoration: none;
@@ -829,7 +829,7 @@ footer
 .sub-menu li a:hover
 {
     text-decoration: none;
-    color: #cfbda6;
+    color: #ffffff;
 }
 
 .sub-menu li a em

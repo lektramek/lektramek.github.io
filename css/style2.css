@@ -23,7 +23,7 @@ body{ background-color:#000000; border:0; font: 13px Arial, Helvetica, sans-seri
 /* ============================= header ====================== */
 .top1{}
 
-header{float: left; padding-top: 5px; padding-bottom: 15px;}
+header{float: left; padding-top: 10px; padding-bottom: 15px;}
 
 .phone1{float: right; position: relative; display: inline-block; padding-top: 15px; margin-bottom: 10px; }
 .phone1 .txt1{background: #ad4c22; line-height: 20px; color: #ffc64b; font-family: 'Asap'; font-weight: 700; font-style: italic; font-size: 20px; padding: 20px;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;}

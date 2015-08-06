@@ -118,19 +118,7 @@ header
     height: 54px;
     padding-top: 2px;
     color: black;
-    background: repeating-linear-gradient(
-    45deg,
-    transparent,
-    transparent 10px,
-    #ccc 10px,
-    #ccc 20px
-  ),
-  linear-gradient(
-    to bottom,
-    #00cc00,
-      #fff
-    
-  );
+
 }
 
 
@@ -669,7 +657,19 @@ footer
 {
     margin: 0;
     padding: 0;
-    background: none;
+        background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    #ccc 10px,
+    #ccc 20px
+  ),
+  linear-gradient(
+    to bottom,
+    #00cc00,
+      #fff
+    
+  );
     position: relative;
     z-index: 30;
 }

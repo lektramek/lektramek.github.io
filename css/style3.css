@@ -775,7 +775,7 @@ footer
 
 .navbar_ .nav > li.active > a, .navbar_ .nav > li.active > a:hover, .navbar_ .nav > li.active > a:focus, .navbar_ .nav > li > a:hover, .navbar_ .nav > li > a:focus, .navbar_ .nav > li.sfHover > a, .navbar_ .nav > li.sfHover > a:hover
 {
-    color: #cfbda6;
+    color: #ffffff;
     text-decoration: none;
     background: url(../images/nav.png) 0 0 repeat;
     box-shadow: none;

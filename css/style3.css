@@ -716,7 +716,13 @@ footer
 
 .navbar_ .nav > li
 {
-      margin: 0;
+
+    position: relative;
+    display: block;
+    float: left;
+    padding-left: 2px;
+    white-space: nowrap;
+         margin: 0;
     padding: 0;
         background: repeating-linear-gradient(
     45deg,
@@ -731,12 +737,6 @@ footer
       #fff
     
   );
-    position: relative;
-    display: block;
-    float: left;
-    padding-left: 2px;
-    white-space: nowrap;
-    background: url(../images/marker0.png) 0 0 no-repeat;
 }
 
 .navbar_ .nav > li:first-child

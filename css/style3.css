@@ -655,21 +655,7 @@ footer
 
 .navbar_
 {
-    margin: 0;
-    padding: 0;
-        background: repeating-linear-gradient(
-    45deg,
-    transparent,
-    transparent 10px,
-    #ccc 10px,
-    #ccc 20px
-  ),
-  linear-gradient(
-    to bottom,
-    #00cc00,
-      #fff
-    
-  );
+  
     position: relative;
     z-index: 30;
 }
@@ -730,6 +716,21 @@ footer
 
 .navbar_ .nav > li
 {
+      margin: 0;
+    padding: 0;
+        background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    #ccc 10px,
+    #ccc 20px
+  ),
+  linear-gradient(
+    to bottom,
+    #00cc00,
+      #fff
+    
+  );
     position: relative;
     display: block;
     float: left;

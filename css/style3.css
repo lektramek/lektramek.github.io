@@ -244,12 +244,12 @@ header
 
 .banners .banner1 .banner_inner a
 {
-    background: url(../images/banner1_bg.jpg);
+    background: url(../images/box1.jpg);
 }
 
 .banners .banner2 .banner_inner a
 {
-    background: url(../images/banner2_bg.jpg);
+    background: url(../images/box2.png);
 }
 
 .banners .banner3 .banner_inner a
@@ -259,7 +259,7 @@ header
 
 .banners .banner4 .banner_inner a
 {
-    background: url(../images/banner4_bg.jpg);
+    background: url(../images/box4.png);
 }
 
 .main .banners .banner1
